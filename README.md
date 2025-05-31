@@ -18,9 +18,9 @@ NoteNest is a smart academic companion built to help students capture and organi
 ## 📱 Onboarding Screenshots
 
 <div align="center">
-  <img src="ob3.png" width="300"/>
-  <img src="ob2.png" width="300"/>
-  <img src="ob1.png" width="300"/>
+  <img src="https://github.com/Bytenomads/.github/blob/main/ob3.jpg" width="300"/>
+  <img src="https://github.com/Bytenomads/.github/blob/main/ob2.jpg" width="300"/>
+  <img src="https://github.com/Bytenomads/.github/blob/main/ob1.jpg" width="300"/>
 </div>
 
 > *Note: Place your onboarding images in the `assets/` folder of your repo and update the image names accordingly.*
