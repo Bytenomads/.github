@@ -65,11 +65,7 @@ This project is modularized across multiple repositories for better scalability 
 
 ## 📬 Contact
 
-- Email: `huzaifa.ghori@email.com`  
-- LinkedIn: [Huzaifa Ghori](https://www.linkedin.com/in/your-profile)  
-
+- Email: `huzaifaghori000@gmail.com`  
+- LinkedIn: [Huzaifa Ghori](https://www.linkedin.com/in/huzaifa-ghori-2087771b3/)
+  
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
