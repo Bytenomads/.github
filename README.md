@@ -23,22 +23,7 @@ NoteNest is a smart academic companion built to help students capture and organi
   <img src="https://github.com/Bytenomads/.github/blob/main/ob1.jpg" width="300"/>
 </div>
 
-> *Note: Place your onboarding images in the `assets/` folder of your repo and update the image names accordingly.*
-
 ---
-
-## 🎥 App Demo
-
-[![NoteNest Demo Video](https://github.com/Bytenomads/.github/blob/main/notenest%20demo.mp4)
-> *Click above to watch the full 3-minute demo.*
-
----
-
-## 📊 Pitch Deck
-
-👉 [📂 NoteNest Pitch Deck (PDF)](./.github/NoteNest_PitchDeck.pdf)
-
-> *(Ensure the PDF file is located inside the `.github/` folder in your repository.)*
 
 ---
 
@@ -61,10 +46,10 @@ This project is modularized across multiple repositories for better scalability 
 
 | Component        | Repository                                                                 |
 |------------------|-----------------------------------------------------------------------------|
-| 📱 Frontend App   | [notenest-frontend](https://github.com/your-org/notenest-frontend)         |
-| ⚙️ Backend API    | [notenest-backend](https://github.com/your-org/notenest-backend)           |
-| 🎙️ Audio Server   | [notenest-audio-server](https://github.com/your-org/notenest-audio-server) |
-| 💬 Chat Server    | [notenest-chat-server](https://github.com/your-org/notenest-chat-server)   |
+| 📱 Frontend App   | [notenest-frontend](https://github.com/Bytenomads/notenest-frontend)       |
+| ⚙️ Backend API    | [notenest-backend](https://github.com/Bytenomads/notenest-backend)          |
+| 🎙️ Audio Server   | [notenest-audio-server](https://github.com/Bytenomads/notenest-audio-socket) |
+| 💬 Chat Server    | [notenest-chat-server](https://github.com/Bytenomads/notenest-chatsocket)   |
 
 > Make sure to replace `your-org` with your actual GitHub organization or username.
 
