@@ -29,7 +29,7 @@ NoteNest is a smart academic companion built to help students capture and organi
 
 ## 🎥 App Demo
 
-[![NoteNest Demo Video](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+[![NoteNest Demo Video](https://github.com/Bytenomads/.github/blob/main/notenest%20demo.mp4)
 > *Click above to watch the full 3-minute demo.*
 
 ---
